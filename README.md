@@ -1,4 +1,4 @@
-# A23126510168 - Campus Notifications
+# Campus Notifications
 
 This repository contains:
 - `stage1.js` — Stage 1 priority inbox script
