@@ -1,0 +1,9 @@
+{
+  "name": "notification-submission",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "stage1": "node stage1.js",
+    "check:stage1": "node --check stage1.js"
+  }
+}
